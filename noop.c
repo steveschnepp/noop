@@ -8,7 +8,5 @@ int main()
 	close(STDERR_FILENO);
 
 	// wait forever
-	while(1) {
-		sleep(1000);
-	}
+	pause();
 }
