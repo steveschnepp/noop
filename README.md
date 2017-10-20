@@ -2,7 +2,7 @@
 
 A very simple "do nothing" binary.
 
-This can be though as a drop-in replacement of any daemon, in order to remain
+This can be thought as a drop-in replacement of any daemon, in order to remain
 compatible with some process exploring checks.
 
 ## Compilation
